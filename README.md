@@ -38,11 +38,11 @@ Although the object is attached to the global scoped `navigator`, it is not avai
 
 ## Installation
 
-    cordova plugin add cordova-plugin-camera
+    cordova plugin add @ayushmw/cordova-plugin-camera
 
 It is also possible to install via repo url directly ( unstable )
 
-    cordova plugin add https://github.com/apache/cordova-plugin-camera.git
+    cordova plugin add https://github.com/ayushmw/cordova-plugin-camera.git
 
 ## Plugin variables
 

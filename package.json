@@ -1,6 +1,6 @@
 {
-  "name": "cordova-plugin-camera",
-  "version": "6.0.1-dev",
+  "name": "@ayushmw/cordova-plugin-camera",
+  "version": "6.0.2-dev",
   "description": "Cordova Camera Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
@@ -13,8 +13,11 @@
       "osx"
     ]
   },
-  "repository": "github:apache/cordova-plugin-camera",
-  "bugs": "https://github.com/apache/cordova-plugin-camera/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ayushmw/cordova-plugin-camera.git"
+  },
+  "bugs": "https://github.com/ayushmw/cordova-plugin-camera/issues",
   "keywords": [
     "cordova",
     "camera",
